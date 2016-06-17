@@ -2,4 +2,4 @@
 UC Merced Engineering Service Learning
 
 
-DEPRACATED
+DEPRECATED
